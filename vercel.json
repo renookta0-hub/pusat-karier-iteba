@@ -1,0 +1,5 @@
+{
+  "buildCommand": "echo 'Situs statis — tidak ada proses build.'",
+  "outputDirectory": "public",
+  "cleanUrls": true
+}
