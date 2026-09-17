@@ -1,5 +1,5 @@
 {
-  "buildCommand": "echo 'Situs statis — tidak ada proses build.'",
-  "outputDirectory": "public",
+  "buildCommand": "vite build",
+  "outputDirectory": "dist",
   "cleanUrls": true
 }

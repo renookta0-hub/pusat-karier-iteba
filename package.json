@@ -4,8 +4,11 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "bun --watch server.js",
-    "start": "bun server.js",
-    "build": "echo 'Situs statis — tidak ada proses build, public/ sudah siap deploy.'"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
   }
 }
